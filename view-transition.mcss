@@ -1,0 +1,9 @@
+
+.content {
+  transition: opacity .2s ease-out;
+  opacity: 0;
+}
+  .content.is-visible {
+    opacity: 1;
+  }
+
